@@ -1,0 +1,28 @@
+{
+  "alunos": [
+    {
+      "nome": "hmlgkj",
+      "curso": "ffhvf",
+      "num_inscricao": "21",
+      "id": 1
+    },
+    {
+      "nome": "fef",
+      "curso": "fefe",
+      "num_inscricao": "22",
+      "id": 2
+    },
+    {
+      "nome": "2t2",
+      "curso": "we",
+      "num_inscricao": "33",
+      "id": 3
+    },
+    {
+      "nome": "3r2",
+      "curso": "qqqqq",
+      "num_inscricao": "3",
+      "id": 4
+    }
+  ]
+}
